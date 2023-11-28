@@ -1,0 +1,7 @@
+tqdm
+retry
+requests
+pandas
+bs4
+selenium
+webdriver_manager
