@@ -55,5 +55,5 @@ def get_most_popular_names(years:list[int],number_or_pct:Literal['p','n'], outdi
 
 
 if __name__ == '__main__':
-    get_most_popular_names(list(range(1887,2022)),'n','data')
-    get_most_popular_names(list(range(1887,2022)),'p','data')
+    get_most_popular_names(list(range(1887,2024)),'n','data')
+    get_most_popular_names(list(range(1887,2024)),'p','data')
