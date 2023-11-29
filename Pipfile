@@ -9,9 +9,9 @@ retry = "*"
 requests = "*"
 pandas = "*"
 bs4 = "*"
-selenium = "*"
-webdriver-manager = "*"
 lxml = "*"
+jupyter = "*"
+matplotlib = "*"
 
 [dev-packages]
 
