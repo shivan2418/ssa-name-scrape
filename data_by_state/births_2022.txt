@@ -1,0 +1,903 @@
+"Notes"	"State"	"State Code"	"Year"	"Year Code"	"Gender"	"Gender Code"	"Mother's Single Race"	"Mother's Single Race Code"	Births
+	"Alabama"	"01"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	87
+	"Alabama"	"01"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	399
+	"Alabama"	"01"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	8036
+	"Alabama"	"01"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	43
+	"Alabama"	"01"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	19488
+	"Alabama"	"01"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	600
+	"Alabama"	"01"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Alabama"	"01"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Alabama"	"01"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Alabama"	"01"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	83
+	"Alabama"	"01"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	425
+	"Alabama"	"01"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	8354
+	"Alabama"	"01"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	63
+	"Alabama"	"01"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	19958
+	"Alabama"	"01"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	613
+	"Alabama"	"01"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Alabama"	"01"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Alabama"	"01"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Alaska"	"02"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	902
+	"Alaska"	"02"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	273
+	"Alaska"	"02"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	167
+	"Alaska"	"02"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	147
+	"Alaska"	"02"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	2606
+	"Alaska"	"02"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	513
+	"Alaska"	"02"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Alaska"	"02"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Alaska"	"02"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Alaska"	"02"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	916
+	"Alaska"	"02"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	321
+	"Alaska"	"02"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	153
+	"Alaska"	"02"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	182
+	"Alaska"	"02"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	2665
+	"Alaska"	"02"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	514
+	"Alaska"	"02"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Alaska"	"02"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Alaska"	"02"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Arizona"	"04"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	1988
+	"Arizona"	"04"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	1439
+	"Arizona"	"04"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	2474
+	"Arizona"	"04"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	125
+	"Arizona"	"04"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	31179
+	"Arizona"	"04"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	1293
+	"Arizona"	"04"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Arizona"	"04"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Arizona"	"04"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Arizona"	"04"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	2010
+	"Arizona"	"04"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	1476
+	"Arizona"	"04"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	2553
+	"Arizona"	"04"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	118
+	"Arizona"	"04"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	32645
+	"Arizona"	"04"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	1247
+	"Arizona"	"04"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Arizona"	"04"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Arizona"	"04"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Arkansas"	"05"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	132
+	"Arkansas"	"05"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	383
+	"Arkansas"	"05"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	3249
+	"Arkansas"	"05"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	302
+	"Arkansas"	"05"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	12910
+	"Arkansas"	"05"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	357
+	"Arkansas"	"05"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Arkansas"	"05"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Arkansas"	"05"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Arkansas"	"05"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	153
+	"Arkansas"	"05"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	448
+	"Arkansas"	"05"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	3262
+	"Arkansas"	"05"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	334
+	"Arkansas"	"05"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	13535
+	"Arkansas"	"05"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	406
+	"Arkansas"	"05"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Arkansas"	"05"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Arkansas"	"05"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"California"	"06"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	1104
+	"California"	"06"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	30227
+	"California"	"06"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	11486
+	"California"	"06"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	931
+	"California"	"06"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	153409
+	"California"	"06"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	7523
+	"California"	"06"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"California"	"06"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"California"	"06"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"California"	"06"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	1150
+	"California"	"06"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	32332
+	"California"	"06"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	12139
+	"California"	"06"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	996
+	"California"	"06"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	160083
+	"California"	"06"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	7724
+	"California"	"06"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"California"	"06"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"California"	"06"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Colorado"	"08"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	342
+	"Colorado"	"08"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	1260
+	"Colorado"	"08"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	1715
+	"Colorado"	"08"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	131
+	"Colorado"	"08"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	25884
+	"Colorado"	"08"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	1032
+	"Colorado"	"08"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Colorado"	"08"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Colorado"	"08"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Colorado"	"08"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	362
+	"Colorado"	"08"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	1369
+	"Colorado"	"08"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	1815
+	"Colorado"	"08"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	133
+	"Colorado"	"08"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	27275
+	"Colorado"	"08"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	1065
+	"Colorado"	"08"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Colorado"	"08"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Colorado"	"08"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Connecticut"	"09"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	146
+	"Connecticut"	"09"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	931
+	"Connecticut"	"09"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	2752
+	"Connecticut"	"09"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	17
+	"Connecticut"	"09"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	12697
+	"Connecticut"	"09"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	535
+	"Connecticut"	"09"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Connecticut"	"09"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Connecticut"	"09"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Connecticut"	"09"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	164
+	"Connecticut"	"09"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	994
+	"Connecticut"	"09"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	2867
+	"Connecticut"	"09"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	12
+	"Connecticut"	"09"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	13701
+	"Connecticut"	"09"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	516
+	"Connecticut"	"09"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Connecticut"	"09"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Connecticut"	"09"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Delaware"	"10"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	269
+	"Delaware"	"10"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	1552
+	"Delaware"	"10"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	14
+	"Delaware"	"10"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	3236
+	"Delaware"	"10"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	166
+	"Delaware"	"10"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Delaware"	"10"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Delaware"	"10"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Delaware"	"10"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	13
+	"Delaware"	"10"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	299
+	"Delaware"	"10"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	1593
+	"Delaware"	"10"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	18
+	"Delaware"	"10"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	3465
+	"Delaware"	"10"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	182
+	"Delaware"	"10"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Delaware"	"10"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Delaware"	"10"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"District of Columbia"	"11"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	14
+	"District of Columbia"	"11"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	212
+	"District of Columbia"	"11"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	1826
+	"District of Columbia"	"11"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	1795
+	"District of Columbia"	"11"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	110
+	"District of Columbia"	"11"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"District of Columbia"	"11"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"District of Columbia"	"11"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"District of Columbia"	"11"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	12
+	"District of Columbia"	"11"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	222
+	"District of Columbia"	"11"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	1918
+	"District of Columbia"	"11"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	1837
+	"District of Columbia"	"11"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	114
+	"District of Columbia"	"11"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"District of Columbia"	"11"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"District of Columbia"	"11"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Florida"	"12"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	234
+	"Florida"	"12"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	3488
+	"Florida"	"12"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	26016
+	"Florida"	"12"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	124
+	"Florida"	"12"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	78211
+	"Florida"	"12"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	1767
+	"Florida"	"12"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Florida"	"12"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Florida"	"12"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Florida"	"12"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	235
+	"Florida"	"12"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	3566
+	"Florida"	"12"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	26766
+	"Florida"	"12"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	128
+	"Florida"	"12"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	82095
+	"Florida"	"12"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	1803
+	"Florida"	"12"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Florida"	"12"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Florida"	"12"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Georgia"	"13"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	105
+	"Georgia"	"13"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	2910
+	"Georgia"	"13"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	21374
+	"Georgia"	"13"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	135
+	"Georgia"	"13"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	35551
+	"Georgia"	"13"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	1490
+	"Georgia"	"13"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Georgia"	"13"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Georgia"	"13"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Georgia"	"13"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	118
+	"Georgia"	"13"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	3037
+	"Georgia"	"13"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	22295
+	"Georgia"	"13"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	143
+	"Georgia"	"13"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	37391
+	"Georgia"	"13"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	1581
+	"Georgia"	"13"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Georgia"	"13"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Georgia"	"13"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Hawaii"	"15"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	20
+	"Hawaii"	"15"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	1891
+	"Hawaii"	"15"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	172
+	"Hawaii"	"15"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	703
+	"Hawaii"	"15"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	1920
+	"Hawaii"	"15"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	2813
+	"Hawaii"	"15"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Hawaii"	"15"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Hawaii"	"15"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Hawaii"	"15"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	13
+	"Hawaii"	"15"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	1989
+	"Hawaii"	"15"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	165
+	"Hawaii"	"15"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	800
+	"Hawaii"	"15"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	2071
+	"Hawaii"	"15"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	2978
+	"Hawaii"	"15"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Hawaii"	"15"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Hawaii"	"15"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Idaho"	"16"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	171
+	"Idaho"	"16"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	231
+	"Idaho"	"16"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	158
+	"Idaho"	"16"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	45
+	"Idaho"	"16"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	10040
+	"Idaho"	"16"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	251
+	"Idaho"	"16"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Idaho"	"16"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Idaho"	"16"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Idaho"	"16"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	159
+	"Idaho"	"16"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	187
+	"Idaho"	"16"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	156
+	"Idaho"	"16"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	51
+	"Idaho"	"16"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	10667
+	"Idaho"	"16"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	275
+	"Idaho"	"16"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Idaho"	"16"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Idaho"	"16"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Illinois"	"17"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	89
+	"Illinois"	"17"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	4092
+	"Illinois"	"17"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	9756
+	"Illinois"	"17"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	27
+	"Illinois"	"17"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	47628
+	"Illinois"	"17"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	1125
+	"Illinois"	"17"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Illinois"	"17"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Illinois"	"17"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Illinois"	"17"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	90
+	"Illinois"	"17"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	4354
+	"Illinois"	"17"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	10264
+	"Illinois"	"17"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	32
+	"Illinois"	"17"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	49684
+	"Illinois"	"17"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	1209
+	"Illinois"	"17"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Illinois"	"17"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Illinois"	"17"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Indiana"	"18"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	39
+	"Indiana"	"18"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	1203
+	"Indiana"	"18"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	5197
+	"Indiana"	"18"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	68
+	"Indiana"	"18"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	31453
+	"Indiana"	"18"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	884
+	"Indiana"	"18"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Indiana"	"18"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Indiana"	"18"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Indiana"	"18"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	38
+	"Indiana"	"18"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	1311
+	"Indiana"	"18"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	5417
+	"Indiana"	"18"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	87
+	"Indiana"	"18"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	32981
+	"Indiana"	"18"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	971
+	"Indiana"	"18"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Indiana"	"18"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Indiana"	"18"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Iowa"	"19"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	113
+	"Iowa"	"19"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	525
+	"Iowa"	"19"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	1323
+	"Iowa"	"19"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	165
+	"Iowa"	"19"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	15237
+	"Iowa"	"19"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	393
+	"Iowa"	"19"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Iowa"	"19"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Iowa"	"19"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Iowa"	"19"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	116
+	"Iowa"	"19"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	553
+	"Iowa"	"19"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	1376
+	"Iowa"	"19"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	184
+	"Iowa"	"19"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	16081
+	"Iowa"	"19"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	440
+	"Iowa"	"19"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Iowa"	"19"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Iowa"	"19"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Kansas"	"20"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	103
+	"Kansas"	"20"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	530
+	"Kansas"	"20"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	1159
+	"Kansas"	"20"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	57
+	"Kansas"	"20"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	14578
+	"Kansas"	"20"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	463
+	"Kansas"	"20"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Kansas"	"20"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Kansas"	"20"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Kansas"	"20"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	130
+	"Kansas"	"20"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	553
+	"Kansas"	"20"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	1207
+	"Kansas"	"20"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	57
+	"Kansas"	"20"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	15088
+	"Kansas"	"20"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	476
+	"Kansas"	"20"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Kansas"	"20"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Kansas"	"20"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Kentucky"	"21"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	47
+	"Kentucky"	"21"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	607
+	"Kentucky"	"21"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	2647
+	"Kentucky"	"21"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	86
+	"Kentucky"	"21"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	21640
+	"Kentucky"	"21"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	568
+	"Kentucky"	"21"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Kentucky"	"21"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Kentucky"	"21"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Kentucky"	"21"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	56
+	"Kentucky"	"21"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	601
+	"Kentucky"	"21"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	2782
+	"Kentucky"	"21"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	64
+	"Kentucky"	"21"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	22678
+	"Kentucky"	"21"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	539
+	"Kentucky"	"21"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Kentucky"	"21"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Kentucky"	"21"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Louisiana"	"22"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	185
+	"Louisiana"	"22"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	562
+	"Louisiana"	"22"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	10608
+	"Louisiana"	"22"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	93
+	"Louisiana"	"22"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	15702
+	"Louisiana"	"22"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	398
+	"Louisiana"	"22"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Louisiana"	"22"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Louisiana"	"22"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Louisiana"	"22"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	193
+	"Louisiana"	"22"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	655
+	"Louisiana"	"22"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	10899
+	"Louisiana"	"22"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	112
+	"Louisiana"	"22"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	16620
+	"Louisiana"	"22"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	452
+	"Louisiana"	"22"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Louisiana"	"22"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Louisiana"	"22"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Maine"	"23"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	43
+	"Maine"	"23"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	71
+	"Maine"	"23"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	351
+	"Maine"	"23"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	5308
+	"Maine"	"23"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	95
+	"Maine"	"23"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Maine"	"23"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Maine"	"23"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Maine"	"23"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	40
+	"Maine"	"23"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	96
+	"Maine"	"23"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	354
+	"Maine"	"23"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	5628
+	"Maine"	"23"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	101
+	"Maine"	"23"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Maine"	"23"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Maine"	"23"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Maryland"	"24"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	217
+	"Maryland"	"24"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	2331
+	"Maryland"	"24"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	11062
+	"Maryland"	"24"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	87
+	"Maryland"	"24"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	19048
+	"Maryland"	"24"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	1051
+	"Maryland"	"24"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Maryland"	"24"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Maryland"	"24"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Maryland"	"24"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	222
+	"Maryland"	"24"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	2479
+	"Maryland"	"24"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	11373
+	"Maryland"	"24"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	62
+	"Maryland"	"24"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	19813
+	"Maryland"	"24"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	1037
+	"Maryland"	"24"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Maryland"	"24"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Maryland"	"24"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Massachusetts"	"25"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	39
+	"Massachusetts"	"25"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	2767
+	"Massachusetts"	"25"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	5050
+	"Massachusetts"	"25"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	17
+	"Massachusetts"	"25"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	24780
+	"Massachusetts"	"25"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	913
+	"Massachusetts"	"25"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Massachusetts"	"25"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Massachusetts"	"25"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Massachusetts"	"25"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	40
+	"Massachusetts"	"25"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	3038
+	"Massachusetts"	"25"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	5172
+	"Massachusetts"	"25"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	23
+	"Massachusetts"	"25"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	25679
+	"Massachusetts"	"25"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	1066
+	"Massachusetts"	"25"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Massachusetts"	"25"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Massachusetts"	"25"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Michigan"	"26"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	221
+	"Michigan"	"26"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	1986
+	"Michigan"	"26"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	8777
+	"Michigan"	"26"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	50
+	"Michigan"	"26"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	37611
+	"Michigan"	"26"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	1377
+	"Michigan"	"26"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Michigan"	"26"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Michigan"	"26"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Michigan"	"26"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	260
+	"Michigan"	"26"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	2075
+	"Michigan"	"26"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	9051
+	"Michigan"	"26"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	33
+	"Michigan"	"26"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	39505
+	"Michigan"	"26"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	1375
+	"Michigan"	"26"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Michigan"	"26"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Michigan"	"26"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Minnesota"	"27"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	429
+	"Minnesota"	"27"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	2474
+	"Minnesota"	"27"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	4061
+	"Minnesota"	"27"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	65
+	"Minnesota"	"27"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	23305
+	"Minnesota"	"27"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	962
+	"Minnesota"	"27"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Minnesota"	"27"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Minnesota"	"27"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Minnesota"	"27"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	495
+	"Minnesota"	"27"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	2550
+	"Minnesota"	"27"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	4140
+	"Minnesota"	"27"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	57
+	"Minnesota"	"27"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	24502
+	"Minnesota"	"27"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	975
+	"Minnesota"	"27"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Minnesota"	"27"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Minnesota"	"27"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Mississippi"	"28"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	122
+	"Mississippi"	"28"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	190
+	"Mississippi"	"28"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	7262
+	"Mississippi"	"28"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	13
+	"Mississippi"	"28"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	9305
+	"Mississippi"	"28"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	159
+	"Mississippi"	"28"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Mississippi"	"28"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Mississippi"	"28"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Mississippi"	"28"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	132
+	"Mississippi"	"28"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	232
+	"Mississippi"	"28"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	7266
+	"Mississippi"	"28"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	11
+	"Mississippi"	"28"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	9772
+	"Mississippi"	"28"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	211
+	"Mississippi"	"28"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Mississippi"	"28"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Mississippi"	"28"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Missouri"	"29"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	132
+	"Missouri"	"29"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	851
+	"Missouri"	"29"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	4669
+	"Missouri"	"29"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	165
+	"Missouri"	"29"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	26819
+	"Missouri"	"29"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	1160
+	"Missouri"	"29"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Missouri"	"29"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Missouri"	"29"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Missouri"	"29"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	119
+	"Missouri"	"29"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	923
+	"Missouri"	"29"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	4958
+	"Missouri"	"29"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	163
+	"Missouri"	"29"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	27804
+	"Missouri"	"29"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	1222
+	"Missouri"	"29"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Missouri"	"29"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Missouri"	"29"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Montana"	"30"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	501
+	"Montana"	"30"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	72
+	"Montana"	"30"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	41
+	"Montana"	"30"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	4660
+	"Montana"	"30"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	174
+	"Montana"	"30"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Montana"	"30"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Montana"	"30"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Montana"	"30"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	504
+	"Montana"	"30"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	70
+	"Montana"	"30"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	33
+	"Montana"	"30"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	16
+	"Montana"	"30"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	4912
+	"Montana"	"30"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	187
+	"Montana"	"30"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Montana"	"30"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Montana"	"30"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Nebraska"	"31"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	238
+	"Nebraska"	"31"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	410
+	"Nebraska"	"31"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	873
+	"Nebraska"	"31"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	19
+	"Nebraska"	"31"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	10012
+	"Nebraska"	"31"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	351
+	"Nebraska"	"31"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Nebraska"	"31"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Nebraska"	"31"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Nebraska"	"31"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	227
+	"Nebraska"	"31"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	450
+	"Nebraska"	"31"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	923
+	"Nebraska"	"31"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	29
+	"Nebraska"	"31"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	10402
+	"Nebraska"	"31"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	411
+	"Nebraska"	"31"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Nebraska"	"31"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Nebraska"	"31"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Nevada"	"32"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	139
+	"Nevada"	"32"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	1290
+	"Nevada"	"32"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	2341
+	"Nevada"	"32"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	188
+	"Nevada"	"32"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	11373
+	"Nevada"	"32"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	939
+	"Nevada"	"32"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Nevada"	"32"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Nevada"	"32"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Nevada"	"32"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	142
+	"Nevada"	"32"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	1383
+	"Nevada"	"32"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	2405
+	"Nevada"	"32"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	215
+	"Nevada"	"32"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	11849
+	"Nevada"	"32"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	929
+	"Nevada"	"32"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Nevada"	"32"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Nevada"	"32"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"New Hampshire"	"33"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	212
+	"New Hampshire"	"33"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	191
+	"New Hampshire"	"33"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	5396
+	"New Hampshire"	"33"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	83
+	"New Hampshire"	"33"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"New Hampshire"	"33"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"New Hampshire"	"33"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"New Hampshire"	"33"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	238
+	"New Hampshire"	"33"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	162
+	"New Hampshire"	"33"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	5686
+	"New Hampshire"	"33"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	88
+	"New Hampshire"	"33"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"New Hampshire"	"33"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"New Hampshire"	"33"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"New Jersey"	"34"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	87
+	"New Jersey"	"34"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	5333
+	"New Jersey"	"34"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	8456
+	"New Jersey"	"34"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	152
+	"New Jersey"	"34"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	35551
+	"New Jersey"	"34"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	762
+	"New Jersey"	"34"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"New Jersey"	"34"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"New Jersey"	"34"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"New Jersey"	"34"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	120
+	"New Jersey"	"34"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	5658
+	"New Jersey"	"34"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	8877
+	"New Jersey"	"34"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	176
+	"New Jersey"	"34"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	36955
+	"New Jersey"	"34"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	766
+	"New Jersey"	"34"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"New Jersey"	"34"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"New Jersey"	"34"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"New Mexico"	"35"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	1246
+	"New Mexico"	"35"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	215
+	"New Mexico"	"35"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	286
+	"New Mexico"	"35"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	10
+	"New Mexico"	"35"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	8583
+	"New Mexico"	"35"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	253
+	"New Mexico"	"35"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"New Mexico"	"35"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"New Mexico"	"35"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"New Mexico"	"35"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	1234
+	"New Mexico"	"35"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	230
+	"New Mexico"	"35"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	255
+	"New Mexico"	"35"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	16
+	"New Mexico"	"35"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	8996
+	"New Mexico"	"35"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	290
+	"New Mexico"	"35"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"New Mexico"	"35"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"New Mexico"	"35"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"New York"	"36"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	385
+	"New York"	"36"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	10524
+	"New York"	"36"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	19993
+	"New York"	"36"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	100
+	"New York"	"36"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	68867
+	"New York"	"36"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	2101
+	"New York"	"36"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"New York"	"36"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"New York"	"36"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"New York"	"36"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	417
+	"New York"	"36"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	10927
+	"New York"	"36"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	20486
+	"New York"	"36"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	92
+	"New York"	"36"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	71761
+	"New York"	"36"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	2121
+	"New York"	"36"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"New York"	"36"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"New York"	"36"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"North Carolina"	"37"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	875
+	"North Carolina"	"37"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	2569
+	"North Carolina"	"37"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	14830
+	"North Carolina"	"37"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	272
+	"North Carolina"	"37"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	39054
+	"North Carolina"	"37"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	1841
+	"North Carolina"	"37"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"North Carolina"	"37"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"North Carolina"	"37"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"North Carolina"	"37"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	855
+	"North Carolina"	"37"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	2591
+	"North Carolina"	"37"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	15311
+	"North Carolina"	"37"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	255
+	"North Carolina"	"37"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	41169
+	"North Carolina"	"37"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	1940
+	"North Carolina"	"37"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"North Carolina"	"37"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"North Carolina"	"37"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"North Dakota"	"38"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	340
+	"North Dakota"	"38"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	88
+	"North Dakota"	"38"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	322
+	"North Dakota"	"38"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	32
+	"North Dakota"	"38"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	3663
+	"North Dakota"	"38"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	162
+	"North Dakota"	"38"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"North Dakota"	"38"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"North Dakota"	"38"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"North Dakota"	"38"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	357
+	"North Dakota"	"38"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	108
+	"North Dakota"	"38"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	329
+	"North Dakota"	"38"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	19
+	"North Dakota"	"38"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	3973
+	"North Dakota"	"38"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	174
+	"North Dakota"	"38"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"North Dakota"	"38"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"North Dakota"	"38"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Ohio"	"39"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	95
+	"Ohio"	"39"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	1957
+	"Ohio"	"39"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	10589
+	"Ohio"	"39"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	78
+	"Ohio"	"39"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	48190
+	"Ohio"	"39"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	2015
+	"Ohio"	"39"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Ohio"	"39"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Ohio"	"39"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Ohio"	"39"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	86
+	"Ohio"	"39"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	2109
+	"Ohio"	"39"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	10850
+	"Ohio"	"39"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	91
+	"Ohio"	"39"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	50128
+	"Ohio"	"39"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	2043
+	"Ohio"	"39"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Ohio"	"39"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Ohio"	"39"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Oklahoma"	"40"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	2290
+	"Oklahoma"	"40"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	645
+	"Oklahoma"	"40"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	1954
+	"Oklahoma"	"40"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	125
+	"Oklahoma"	"40"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	16412
+	"Oklahoma"	"40"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	2078
+	"Oklahoma"	"40"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Oklahoma"	"40"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Oklahoma"	"40"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Oklahoma"	"40"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	2489
+	"Oklahoma"	"40"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	710
+	"Oklahoma"	"40"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	2060
+	"Oklahoma"	"40"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	123
+	"Oklahoma"	"40"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	17312
+	"Oklahoma"	"40"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	2134
+	"Oklahoma"	"40"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Oklahoma"	"40"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Oklahoma"	"40"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Oregon"	"41"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	685
+	"Oregon"	"41"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	1228
+	"Oregon"	"41"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	778
+	"Oregon"	"41"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	234
+	"Oregon"	"41"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	15177
+	"Oregon"	"41"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	1131
+	"Oregon"	"41"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Oregon"	"41"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Oregon"	"41"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Oregon"	"41"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	680
+	"Oregon"	"41"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	1304
+	"Oregon"	"41"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	812
+	"Oregon"	"41"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	219
+	"Oregon"	"41"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	16105
+	"Oregon"	"41"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	1140
+	"Oregon"	"41"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Oregon"	"41"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Oregon"	"41"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Pennsylvania"	"42"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	253
+	"Pennsylvania"	"42"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	3150
+	"Pennsylvania"	"42"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	10703
+	"Pennsylvania"	"42"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	132
+	"Pennsylvania"	"42"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	47982
+	"Pennsylvania"	"42"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	1442
+	"Pennsylvania"	"42"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Pennsylvania"	"42"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Pennsylvania"	"42"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Pennsylvania"	"42"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	248
+	"Pennsylvania"	"42"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	3473
+	"Pennsylvania"	"42"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	10900
+	"Pennsylvania"	"42"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	164
+	"Pennsylvania"	"42"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	50261
+	"Pennsylvania"	"42"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	1544
+	"Pennsylvania"	"42"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Pennsylvania"	"42"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Pennsylvania"	"42"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Rhode Island"	"44"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	51
+	"Rhode Island"	"44"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	240
+	"Rhode Island"	"44"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	775
+	"Rhode Island"	"44"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	21
+	"Rhode Island"	"44"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	3802
+	"Rhode Island"	"44"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	147
+	"Rhode Island"	"44"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Rhode Island"	"44"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Rhode Island"	"44"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Rhode Island"	"44"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	57
+	"Rhode Island"	"44"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	239
+	"Rhode Island"	"44"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	775
+	"Rhode Island"	"44"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	23
+	"Rhode Island"	"44"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	3944
+	"Rhode Island"	"44"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	195
+	"Rhode Island"	"44"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Rhode Island"	"44"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Rhode Island"	"44"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"South Carolina"	"45"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	120
+	"South Carolina"	"45"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	629
+	"South Carolina"	"45"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	8031
+	"South Carolina"	"45"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	114
+	"South Carolina"	"45"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	18654
+	"South Carolina"	"45"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	820
+	"South Carolina"	"45"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"South Carolina"	"45"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"South Carolina"	"45"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"South Carolina"	"45"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	128
+	"South Carolina"	"45"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	691
+	"South Carolina"	"45"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	8134
+	"South Carolina"	"45"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	127
+	"South Carolina"	"45"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	19487
+	"South Carolina"	"45"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	885
+	"South Carolina"	"45"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"South Carolina"	"45"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"South Carolina"	"45"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"South Dakota"	"46"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	766
+	"South Dakota"	"46"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	94
+	"South Dakota"	"46"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	201
+	"South Dakota"	"46"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	21
+	"South Dakota"	"46"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	4091
+	"South Dakota"	"46"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	231
+	"South Dakota"	"46"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"South Dakota"	"46"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"South Dakota"	"46"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"South Dakota"	"46"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	781
+	"South Dakota"	"46"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	110
+	"South Dakota"	"46"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	194
+	"South Dakota"	"46"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	10
+	"South Dakota"	"46"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	4482
+	"South Dakota"	"46"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	220
+	"South Dakota"	"46"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"South Dakota"	"46"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"South Dakota"	"46"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Tennessee"	"47"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	194
+	"Tennessee"	"47"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	992
+	"Tennessee"	"47"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	7427
+	"Tennessee"	"47"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	227
+	"Tennessee"	"47"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	30393
+	"Tennessee"	"47"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	911
+	"Tennessee"	"47"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Tennessee"	"47"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Tennessee"	"47"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Tennessee"	"47"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	173
+	"Tennessee"	"47"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	1057
+	"Tennessee"	"47"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	7901
+	"Tennessee"	"47"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	258
+	"Tennessee"	"47"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	31817
+	"Tennessee"	"47"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	915
+	"Tennessee"	"47"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Tennessee"	"47"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Tennessee"	"47"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Texas"	"48"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	639
+	"Texas"	"48"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	10477
+	"Texas"	"48"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	25410
+	"Texas"	"48"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	395
+	"Texas"	"48"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	150541
+	"Texas"	"48"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	3163
+	"Texas"	"48"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Texas"	"48"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Texas"	"48"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Texas"	"48"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	661
+	"Texas"	"48"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	11058
+	"Texas"	"48"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	26340
+	"Texas"	"48"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	415
+	"Texas"	"48"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	157360
+	"Texas"	"48"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	3282
+	"Texas"	"48"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Texas"	"48"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Texas"	"48"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Utah"	"49"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	235
+	"Utah"	"49"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	692
+	"Utah"	"49"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	374
+	"Utah"	"49"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	299
+	"Utah"	"49"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	20074
+	"Utah"	"49"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	681
+	"Utah"	"49"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Utah"	"49"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Utah"	"49"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Utah"	"49"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	232
+	"Utah"	"49"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	604
+	"Utah"	"49"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	417
+	"Utah"	"49"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	320
+	"Utah"	"49"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	21113
+	"Utah"	"49"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	727
+	"Utah"	"49"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Utah"	"49"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Utah"	"49"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Vermont"	"50"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	67
+	"Vermont"	"50"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	51
+	"Vermont"	"50"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0
+	"Vermont"	"50"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	2419
+	"Vermont"	"50"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	45
+	"Vermont"	"50"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Vermont"	"50"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Vermont"	"50"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Vermont"	"50"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	82
+	"Vermont"	"50"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	75
+	"Vermont"	"50"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	0
+	"Vermont"	"50"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	2505
+	"Vermont"	"50"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	58
+	"Vermont"	"50"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Vermont"	"50"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Vermont"	"50"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Virginia"	"51"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	209
+	"Virginia"	"51"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	3735
+	"Virginia"	"51"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	9987
+	"Virginia"	"51"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	235
+	"Virginia"	"51"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	31681
+	"Virginia"	"51"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	1210
+	"Virginia"	"51"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Virginia"	"51"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Virginia"	"51"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Virginia"	"51"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	211
+	"Virginia"	"51"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	3898
+	"Virginia"	"51"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	10258
+	"Virginia"	"51"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	234
+	"Virginia"	"51"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	32774
+	"Virginia"	"51"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	1198
+	"Virginia"	"51"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Virginia"	"51"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Virginia"	"51"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Washington"	"53"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	784
+	"Washington"	"53"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	4774
+	"Washington"	"53"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	2453
+	"Washington"	"53"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	746
+	"Washington"	"53"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	29587
+	"Washington"	"53"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	2231
+	"Washington"	"53"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Washington"	"53"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Washington"	"53"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Washington"	"53"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	834
+	"Washington"	"53"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	5178
+	"Washington"	"53"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	2489
+	"Washington"	"53"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	820
+	"Washington"	"53"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	31173
+	"Washington"	"53"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	2264
+	"Washington"	"53"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Washington"	"53"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Washington"	"53"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"West Virginia"	"54"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	16
+	"West Virginia"	"54"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	85
+	"West Virginia"	"54"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	278
+	"West Virginia"	"54"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	7648
+	"West Virginia"	"54"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	215
+	"West Virginia"	"54"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"West Virginia"	"54"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"West Virginia"	"54"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"West Virginia"	"54"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	100
+	"West Virginia"	"54"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	322
+	"West Virginia"	"54"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	8044
+	"West Virginia"	"54"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	208
+	"West Virginia"	"54"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"West Virginia"	"54"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"West Virginia"	"54"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Wisconsin"	"55"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	306
+	"Wisconsin"	"55"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	1318
+	"Wisconsin"	"55"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	2944
+	"Wisconsin"	"55"	"2022"	"2022"	"Female"	"F"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	18
+	"Wisconsin"	"55"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	23793
+	"Wisconsin"	"55"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	790
+	"Wisconsin"	"55"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Wisconsin"	"55"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Wisconsin"	"55"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Wisconsin"	"55"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	300
+	"Wisconsin"	"55"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	1408
+	"Wisconsin"	"55"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	3066
+	"Wisconsin"	"55"	"2022"	"2022"	"Male"	"M"	"Native Hawaiian or Other Pacific Islander"	"NHOPI"	19
+	"Wisconsin"	"55"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	25289
+	"Wisconsin"	"55"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	798
+	"Wisconsin"	"55"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Wisconsin"	"55"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Wisconsin"	"55"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+	"Wyoming"	"56"	"2022"	"2022"	"Female"	"F"	"American Indian or Alaska Native"	"1002-5"	123
+	"Wyoming"	"56"	"2022"	"2022"	"Female"	"F"	"Asian"	"A"	42
+	"Wyoming"	"56"	"2022"	"2022"	"Female"	"F"	"Black or African American"	"2054-5"	35
+	"Wyoming"	"56"	"2022"	"2022"	"Female"	"F"	"White"	"2106-3"	2667
+	"Wyoming"	"56"	"2022"	"2022"	"Female"	"F"	"More than one race"	"M"	84
+	"Wyoming"	"56"	"2022"	"2022"	"Female"	"F"	"Unknown or Not Stated"	"UNK"	0
+	"Wyoming"	"56"	"2022"	"2022"	"Female"	"F"	"Not Available"	"NA"	0
+	"Wyoming"	"56"	"2022"	"2022"	"Female"	"F"	"Not Reported"	"NR"	0
+	"Wyoming"	"56"	"2022"	"2022"	"Male"	"M"	"American Indian or Alaska Native"	"1002-5"	103
+	"Wyoming"	"56"	"2022"	"2022"	"Male"	"M"	"Asian"	"A"	35
+	"Wyoming"	"56"	"2022"	"2022"	"Male"	"M"	"Black or African American"	"2054-5"	31
+	"Wyoming"	"56"	"2022"	"2022"	"Male"	"M"	"White"	"2106-3"	2827
+	"Wyoming"	"56"	"2022"	"2022"	"Male"	"M"	"More than one race"	"M"	92
+	"Wyoming"	"56"	"2022"	"2022"	"Male"	"M"	"Unknown or Not Stated"	"UNK"	0
+	"Wyoming"	"56"	"2022"	"2022"	"Male"	"M"	"Not Available"	"NA"	0
+	"Wyoming"	"56"	"2022"	"2022"	"Male"	"M"	"Not Reported"	"NR"	0
+

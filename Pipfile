@@ -12,6 +12,8 @@ bs4 = "*"
 lxml = "*"
 jupyter = "*"
 matplotlib = "*"
+us = "*"
+pyarrow = "*"
 
 [dev-packages]
 
